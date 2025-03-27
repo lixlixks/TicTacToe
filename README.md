@@ -8,6 +8,6 @@ One player game of Tic-Tac-Toe where you can play against a computer in a round 
 To play this game, first download the file contents on your local computer. The code bellow can be copied straight into your Linux terminal to compile and run (must have gcc installed on your local computer for this to run).
 
 ``
-gcc board.c -o board
+gcc board.c -o board<br>
 ./board
 ``
